@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCalc", "WinCalc\WinCalc.csproj", "{FD7F94C7-1C62-4E3F-A384-A23108DDC16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{46D8ADB9-9085-410E-905B-0BE0193929E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcTest", "CalcTest\CalcTest.csproj", "{1612F9B9-3EBC-45BE-85DB-EAAB32FFAC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalc", "ConsoleCalc\ConsoleCalc.csproj", "{DB100597-CB71-4B8C-99FE-89875AD92100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7F94C7-1C62-4E3F-A384-A23108DDC16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7F94C7-1C62-4E3F-A384-A23108DDC16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7F94C7-1C62-4E3F-A384-A23108DDC16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7F94C7-1C62-4E3F-A384-A23108DDC16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D8ADB9-9085-410E-905B-0BE0193929E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D8ADB9-9085-410E-905B-0BE0193929E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D8ADB9-9085-410E-905B-0BE0193929E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D8ADB9-9085-410E-905B-0BE0193929E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1612F9B9-3EBC-45BE-85DB-EAAB32FFAC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1612F9B9-3EBC-45BE-85DB-EAAB32FFAC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1612F9B9-3EBC-45BE-85DB-EAAB32FFAC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1612F9B9-3EBC-45BE-85DB-EAAB32FFAC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB100597-CB71-4B8C-99FE-89875AD92100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB100597-CB71-4B8C-99FE-89875AD92100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB100597-CB71-4B8C-99FE-89875AD92100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB100597-CB71-4B8C-99FE-89875AD92100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
